@@ -3,5 +3,5 @@
 ## 次やること
 ## 感じたこと
 ## 学習時間
-Today:h
+Today:h  
 Total:h  
